@@ -1,0 +1,3 @@
+
+		ilkTarih = BusinessPacked.strToDate("01/01/" + session.getAttribute("yil") + "");
+        sonTarih = BusinessPacked.strToDate("31/12/" + session.getAttribute("yil") + "");
